@@ -17,5 +17,8 @@ p1 = Person("Cisco")
 p2 = Person("Mel")
 print(Person.no_of_people())
 
-    
+'''Magic methods ---> Dunder methods double underscores __init__, __str__, __eq__
+                      They are automatically called by many python's built-in methods
+                      They allow developers to define or customize behaviour of objects
+                      '''
     
